@@ -1,0 +1,13 @@
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\bin\Debug\netcoreapp3.1\OutguessAddendum.exe
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\bin\Debug\netcoreapp3.1\OutguessAddendum.deps.json
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\bin\Debug\netcoreapp3.1\OutguessAddendum.runtimeconfig.json
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\bin\Debug\netcoreapp3.1\OutguessAddendum.runtimeconfig.dev.json
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\bin\Debug\netcoreapp3.1\OutguessAddendum.dll
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\bin\Debug\netcoreapp3.1\OutguessAddendum.pdb
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\obj\Debug\netcoreapp3.1\OutguessAddendum.AssemblyInfoInputs.cache
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\obj\Debug\netcoreapp3.1\OutguessAddendum.AssemblyInfo.cs
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\obj\Debug\netcoreapp3.1\OutguessAddendum.csproj.CoreCompileInputs.cache
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\obj\Debug\netcoreapp3.1\OutguessAddendum.dll
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\obj\Debug\netcoreapp3.1\OutguessAddendum.pdb
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\obj\Debug\netcoreapp3.1\OutguessAddendum.genruntimeconfig.cache
+C:\Users\lince\source\repos\OutguessAddendum\OutguessAddendum\obj\Debug\netcoreapp3.1\OutguessAddendum.csprojAssemblyReference.cache
